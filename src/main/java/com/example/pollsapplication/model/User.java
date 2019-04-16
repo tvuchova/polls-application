@@ -1,5 +1,6 @@
 package com.example.pollsapplication.model;
 
+import com.example.pollsapplication.model.audit.DateAudit;
 import org.hibernate.annotations.NaturalId;
 
 import javax.persistence.Entity;
